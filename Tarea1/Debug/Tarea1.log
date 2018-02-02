@@ -1,0 +1,4 @@
+﻿  Tarea1.cpp
+c:\users\bryan\source\repos\tarea1\tarea1\tarea1.cpp(13): warning C4101: 'total': unreferenced local variable
+c:\users\bryan\source\repos\tarea1\tarea1\tarea1.cpp(11): warning C4101: 'valor': unreferenced local variable
+  Tarea1.vcxproj -> C:\Users\bryan\source\repos\Tarea1\Debug\Tarea1.exe
